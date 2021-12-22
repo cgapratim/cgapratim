@@ -1,0 +1,2 @@
+This takes your physical camera(with or without target) and creates a new FREE camera with same properties and gives you an option to bake the animation of the camera.
+NOTE: Right now it only works on physical cameras, will try to work further on it, if there's a need.
