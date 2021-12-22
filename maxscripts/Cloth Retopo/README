@@ -1,0 +1,6 @@
+This is very useful script for anyone trying to get better polygon smoothing on your cloth simulation. It converts your triangulated cloth plane and converts in into quads
+and gives you option to point cache it.
+This small tool has helped me get better smoothing everytime.
+Right now this only works on plane cloth objects. 
+Make sure you have not scaled the original geometry in order to make it work properly.
+I am working on it in my free time to make it more robust and efficient.
